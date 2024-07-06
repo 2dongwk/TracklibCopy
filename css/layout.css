@@ -465,18 +465,23 @@ article:nth-child(3) {background-color: #faf3f2;}
 }
 
 .sub_ad2_wrap {
-    width: 50%;
-    max-width: 500px;
+    width: 100%;
+    max-width: 1440px;
+    margin: 0 auto;
     color: #ffffff;
 }
 
 .sub_ad2_wrap h2 {
+    width: 50%;
     margin: 16px 0;
     font-size: 40px;
     line-height: 48px;
 }
 
-.sub_ad2_wrap p {margin: 8px 0;}
+.sub_ad2_wrap p {
+    width: 50%;
+    margin: 8px 0;
+}
 
 .sub_ad2_wrap a {margin-top: 30px;}
 
